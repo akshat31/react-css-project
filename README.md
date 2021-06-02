@@ -1,2 +1,2 @@
-# react-css-project
+# WayFair
 Created with CodeSandbox
